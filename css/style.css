@@ -90,3 +90,22 @@ p{
     font-size: 20px;
     line-height: 30px;
 }
+
+.buttonsx, .buttondx{
+    display: inline-block;
+    border-radius: 50px;
+    line-height: 40px;
+    padding: 10px 50px;
+    margin-top: 30px;
+    font-size: 18px;
+}
+
+.buttonsx{
+    background-color: white;
+    color: black;
+}
+
+.buttondx{
+    background-color: black;
+    color: white;
+}
