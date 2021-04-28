@@ -109,3 +109,42 @@ p{
     background-color: black;
     color: white;
 }
+
+/* main primo box */
+.sezione-rana
+{
+    position: relative;
+    padding: 40px 60px;
+}
+
+.text1
+{
+    position: absolute;
+    top: 15%;
+    right: 10%;
+    width: 25%;
+}
+
+.text h2
+{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.text p
+{
+    font-size: 18px;
+}
+
+.bg-scuro
+{
+    background-color: #b1b4b6;
+}
+
+.text2
+{
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    width: 25%;
+}
